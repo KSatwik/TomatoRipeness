@@ -11,3 +11,10 @@ Human error and subjectivity in assessing ripeness are common challenges. The mo
 Ultimately, the model contributes to economic optimisation for farmers. By reducing the likelihood of harvesting unripe or overripe tomatoes, it minimizes waste and ensures that the crop's market value is maximized. This not only leads to improved profitability but also enhanced sustainability. Fewer resources are expended on unproductive outcomes, and the environmental impact of unnecessary waste is reduced.
 
 In summary,this machine learning model serves as a powerful tool for farmers, offering precision, efficiency, consistency, and economic benefits in the context of tomato ripeness assessment and allocation. Its adoption promises to transform the way tomatoes are cultivated and managed, benefiting both farmers and the agricultural industry as a whole.
+
+
+##For dataset
+https://drive.google.com/drive/folders/1CPzMAj8C70oO8a0MMMuFGzedK8nB3NlV?usp=sharing, 
+https://drive.google.com/drive/folders/1LJllYz1xowsPzKjTJeWbJPCIqdMtqkCm?usp=sharing,
+https://drive.google.com/drive/folders/1c979aqOYOeEDVX145okWkJyocqcgbaNb?usp=sharing, 
+https://drive.google.com/drive/folders/1oKu1pcqd6cPgY4GBFz2BCJCEDvslTMA1?usp=sharing
